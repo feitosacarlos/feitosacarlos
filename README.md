@@ -1,0 +1,5 @@
+- # Sobre mim
+- 
+- 👋 olá, eu sou o Carlos Daniel, tbm conhecido como feitosa
+- 👀 estou interessado em aprender melhor computação e linguagens
+- 🌱 estou também aprendendo a progamar recentimente   ...
